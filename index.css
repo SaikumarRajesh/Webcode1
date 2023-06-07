@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+h1{
+    text-align: center;
+    color:rgb(192, 192, 99);
+    font-style: italic;
+  
+}
+
+button{
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+}
+.buttondiv{
+    text-align: center;
+}
+
+b{
+    color:rgb(74, 50, 74)
+}
+p{
+    color: black;
+    
+}
+h3{
+    background-color: rgb(113, 91, 91);
+    text-align: center;
+    text-transform: capitalize;
+}
+div{
+    margin-top: 20px;
+}
